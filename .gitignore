@@ -8,6 +8,3 @@ venv/
 
 .ipynb_checkpoints/
 ML_Assignment_2_AIML_26Oct26.pdf
-
-reports/*
-!reports/.gitkeep
