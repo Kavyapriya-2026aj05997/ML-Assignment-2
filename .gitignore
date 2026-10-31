@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+venv/
+.matplotlib/
+
+.ipynb_checkpoints/
+ML_Assignment_2_AIML_26Oct26.pdf
+
+reports/*
+!reports/.gitkeep
